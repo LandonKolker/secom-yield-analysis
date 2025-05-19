@@ -1,1 +1,6 @@
-venv/\n__pycache__/\n.vscode/\n.ipynb_checkpoints/\ndata/*.data\ndata/*.csv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
